@@ -1,6 +1,6 @@
-# AI Starter Kit
+# claude-check
 
-Practical tools for AI beginners — from account security to efficiency.
+Claude account security scanner — self-check and anti-ban.
 
 ---
 
@@ -23,7 +23,7 @@ Docs: [SKILL.md](claude-ban-guard/SKILL.md) · [Ban mechanism](claude-ban-guard/
 In any Agent that supports Skills:
 
 ```
-Help me install this skill: https://github.com/tangheng418-netizen/ai-starter-kit/tree/main/claude-ban-guard
+Help me install this skill: https://github.com/tangheng418-netizen/claude-check/tree/main/claude-ban-guard
 ```
 
 ---
